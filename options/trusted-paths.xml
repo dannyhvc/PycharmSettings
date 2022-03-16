@@ -1,0 +1,10 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\DaniS\Documents\coding\Playground\py_code\flask_app" value="true" />
+        <entry key="C:\Users\DaniS\Documents\coding\Playground\py_code\flask_webserver" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

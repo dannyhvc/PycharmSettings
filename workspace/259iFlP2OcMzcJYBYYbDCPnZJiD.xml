@@ -1,0 +1,215 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="flask_webserver" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backend/datastore/data_types.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="HTML">
+      <summary usageCount="2" lastUsed="1644948545990" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="9" lastUsed="1645229276970" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1644981171365" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/templates/index.html" />
+      <option value="$PROJECT_DIR$/main.py" />
+      <option value="$PROJECT_DIR$/backend/datastore/data_types.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flask_webserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask_webserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flask_webserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask_webserver" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flask_webserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask_webserver" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="datastore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flask_webserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask_webserver" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="C:\Users\DaniS\Documents\coding\Playground\py_code\flask_webserver\" commandHistoryFileName="flask_webserver-history" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info id="Bookmarks" order="1" side_tool="true" />
+      <window_info id="Commit" order="2" weight="0.32984102" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Space Code Reviews" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32977644" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.22002032" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39989838" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32977644" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Space Automation" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="1" visible="true" weight="0.21784681" />
+      <window_info anchor="right" id="documentation.v2" order="2" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Event Log</value>
+      <value>Commit</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="845" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1644948532677">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="845" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1644948532677" />
+    <state width="1340" height="188" key="GridCell.Tab.0.bottom" timestamp="1644982720341">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1340" height="188" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1644982720341" />
+    <state width="1340" height="188" key="GridCell.Tab.0.center" timestamp="1644982720341">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1340" height="188" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1644982720341" />
+    <state width="1340" height="188" key="GridCell.Tab.0.left" timestamp="1644982720341">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1340" height="188" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1644982720341" />
+    <state width="1340" height="188" key="GridCell.Tab.0.right" timestamp="1644982720341">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1340" height="188" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1644982720341" />
+    <state width="1340" height="365" key="GridCell.Tab.1.bottom" timestamp="1644981537241">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1340" height="365" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1644981537241" />
+    <state width="1340" height="365" key="GridCell.Tab.1.center" timestamp="1644981537241">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1340" height="365" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1644981537241" />
+    <state width="1340" height="365" key="GridCell.Tab.1.left" timestamp="1644981537241">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1340" height="365" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1644981537241" />
+    <state width="1340" height="365" key="GridCell.Tab.1.right" timestamp="1644981537241">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1340" height="365" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1644981537241" />
+    <state x="687" y="144" key="SettingsEditor" timestamp="1645229310608">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="687" y="144" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1645229310608" />
+    <state x="764" y="262" width="672" height="685" key="search.everywhere.popup" timestamp="1644947066847">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="764" y="262" width="672" height="685" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1644947066847" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-924" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="394" column="19" lean-forward="true" selection-start-line="394" selection-start-column="19" selection-end-line="394" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/selectors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="315" selection-start-line="315" selection-end-line="315" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/datastore/data_types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,56 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="259hnfXfDeLmXXX9UXWc2u0hyTG">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="259iFlP2OcMzcJYBYYbDCPnZJiD">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="ColorChooser.RecentColors" value="255-238-185-255,,,132-130-130-255,,,255-85-0-255,,,250-216-114-255,,,86-156-213-255,,,57-200-176-255,,,57-200-177-255,,,255-255-255-255,,,226-134-124-255,,,164-175-102-255" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="MarketplacePluginsSearchHistory" value="bracket&#10;b&#10;visual studio&#10;one dark" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="SettingsSearchHistory" value="import" />
+    <property name="appcds.runOnSecondStart" value="PC-213.6777.50-98a93ab4cb6fb7c3e09138b6bdc2d4773a6def8379c1de9979486753c3b382b4" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="bundled.plugins.list.saved.version" value="PC-213.6777.50" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/coding/Playground/py_code" />
+    <property name="file.gist.reindex.count" value="16" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="got.it.tooltip.web.preview.reload.on.save" value="1" />
+    <property name="gotit.previous.run" value="PC-213.6777.50" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ift.learning.panel.opened.in" value="213.6777.50" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/coding/Playground/py_code" />
+    <property name="registry.to.advanced.settings.migration.build" value="PC-213.6777.50" />
+    <property name="selected.color.option.type" value="PY.DOC_COMMENT" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="flask_webserver-history" project-path="$USER_HOME$/Documents/coding/Playground/py_code/flask_webserver" last-access-time="1644982930001" />
+    </command-history-files>
+  </component>
+</application>
